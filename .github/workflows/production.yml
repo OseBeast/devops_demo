@@ -47,7 +47,7 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: OseBeast/devops_demo:latest
+          tags: oseghaleufuah/devops_demo:latest
 
           # Add other relevant build parameters here
 
